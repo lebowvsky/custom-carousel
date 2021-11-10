@@ -1,0 +1,22 @@
+{
+  "name": "custom-carousel",
+  "version": "1.0.0",
+  "description": "A custom carousel",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebowvsky/custom-carousel.git"
+  },
+  "author": "lebowvsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebowvsky/custom-carousel/issues"
+  },
+  "homepage": "https://github.com/lebowvsky/custom-carousel#readme",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
